@@ -28,4 +28,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: : "dist/ang2-conduit"
+  base-directory: : dist/ang2-conduit
